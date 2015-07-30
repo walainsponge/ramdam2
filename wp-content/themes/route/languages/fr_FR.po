@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Route WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-16 10:39+0200\n"
+"PO-Revision-Date: 2014-09-16 15:32+0200\n"
+"Last-Translator: \n"
+"Language-Team: Codestar <info@codestarlive.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour: %s"
+
+#: ../archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Archives quotidiennes: %s"
+
+#: ../archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles: %s"
+
+#: ../archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Archives annuelles: %s"
+
+#: ../archive.php:23
+msgid "Archives"
+msgstr "Archives"
+
+#: ../searchform.php:12
+#: ../header.php:47
+msgid "Search"
+msgstr "Recherche"
+
+#: ../comments.php:34
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: ../comments.php:35
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../404.php:17
+msgid "404"
+msgstr "404"
+
+#: ../404.php:18
+msgid "Not Found!"
+msgstr "Rien de trouvé!"
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Il semblerait que rien n&rsquo;ai été trouvé à cette adresse. Essayez peut-être une recherche?"
+
+#: ../404.php:28
+msgid "Return Back"
+msgstr "Retour"
+
+#: ../author.php:14
+#, php-format
+msgid "All posts by %s"
+msgstr "Tous les articles par %s"
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Archives pour la catégorie %s"
+
+#: ../tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Archives du mot-clé: %s"
+
+#: ../post-formats/content-audio.php:25
+#: ../post-formats/content-gallery.php:24
+#: ../post-formats/content-image.php:24
+#: ../post-formats/content-link.php:33
+#: ../post-formats/content-quote.php:24
+#: ../post-formats/content-aside.php:24
+#: ../post-formats/content-status.php:24
+#: ../post-formats/content-chat.php:24
+#: ../post-formats/content-video.php:24
+#: ../post-formats/content.php:27
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: ../post-formats/content-none.php:12
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Il semble que ce que vous cherchez est introuvable. Essayez avec une recherche."
+
+#: ../cs-framework/includes/shortcodes/cs_portfolio.php:159
+msgid "All"
+msgstr "Tous"
+
+#: ../cs-framework/config/cs-enqueue-config.php:32
+msgid "Already loved!"
+msgstr "Erreur!"
+
+#: ../cs-framework/config/cs-enqueue-config.php:33
+msgid "Error!"
+msgstr "Erreur!"
+
+#: ../cs-framework/config/cs-actions-config.php:307
+msgid "About Author:"
+msgstr "Auteur:"
+
+#: ../cs-framework/config/cs-front-end-functions.php:368
+msgid "Sticky"
+msgstr "Mis en avant"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "1 Comment"
+msgstr "Un commentaire"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: ../cs-framework/config/cs-front-end-functions.php:405
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../cs-framework/config/cs-front-end-functions.php:425
+msgid "Previous Post"
+msgstr "Article précédent"
+
+#: ../cs-framework/config/cs-front-end-functions.php:426
+msgid "Next Post"
+msgstr "Article suivant"
+
+#: ../cs-framework/config/cs-front-end-functions.php:538
+msgid "Load More"
+msgstr "En afficher davantage"
+
+#: ../cs-framework/config/cs-front-end-functions.php:573
+msgid "Previous"
+msgstr "Précédent"
+
+#: ../cs-framework/config/cs-front-end-functions.php:574
+msgid "Next"
+msgstr "Suivant"
+
+#: ../cs-framework/config/cs-front-end-functions.php:753
+msgid "Pages"
+msgstr "Pages"
+
+#: ../cs-framework/config/cs-front-end-functions.php:933
+msgid "You can edit your menu content on the Menus screen in the Appearance section."
+msgstr "Vous pouvez modifier le contenu de votre menu par le biais de lécran Menus, dans la section Apparence."
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;&nbsp;%2$s&nbsp;&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;&nbsp;%2$s&nbsp;&rdquo;"
+

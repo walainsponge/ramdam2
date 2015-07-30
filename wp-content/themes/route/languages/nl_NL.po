@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Route WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-16 10:39+0200\n"
+"PO-Revision-Date: 2014-09-16 15:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: Codestar <info@codestarlive.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: ../archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dagelijks archief: %s"
+
+#: ../archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Maandelijks archief: %s"
+
+#: ../archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jaarlijks archief: %s"
+
+#: ../archive.php:23
+msgid "Archives"
+msgstr "Archief"
+
+#: ../searchform.php:12
+#: ../header.php:47
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../comments.php:34
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#: ../comments.php:35
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: ../404.php:17
+msgid "404"
+msgstr "404"
+
+#: ../404.php:18
+msgid "Not Found!"
+msgstr "Niets gevonden!"
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Het lijkt erop dat er niets gevonden is op deze locatie. Probeer eens te zoeken?"
+
+#: ../404.php:28
+msgid "Return Back"
+msgstr "Terug"
+
+#: ../author.php:14
+#, php-format
+msgid "All posts by %s"
+msgstr "Alle berichten van %s"
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Categorie archief: %s"
+
+#: ../tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tagarchief: %s"
+
+#: ../post-formats/content-audio.php:25
+#: ../post-formats/content-gallery.php:24
+#: ../post-formats/content-image.php:24
+#: ../post-formats/content-link.php:33
+#: ../post-formats/content-quote.php:24
+#: ../post-formats/content-aside.php:24
+#: ../post-formats/content-status.php:24
+#: ../post-formats/content-chat.php:24
+#: ../post-formats/content-video.php:24
+#: ../post-formats/content.php:27
+msgid "Read More"
+msgstr "Meer lezen"
+
+#: ../post-formats/content-none.php:12
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat wij niet kunnen vinden wat jij zoekt. Wellicht dat de zoekfunctie helpt."
+
+#: ../cs-framework/includes/shortcodes/cs_portfolio.php:159
+msgid "All"
+msgstr "Alles"
+
+#: ../cs-framework/config/cs-enqueue-config.php:32
+msgid "Already loved!"
+msgstr "Fout!"
+
+#: ../cs-framework/config/cs-enqueue-config.php:33
+msgid "Error!"
+msgstr "Fout!"
+
+#: ../cs-framework/config/cs-actions-config.php:307
+msgid "About Author:"
+msgstr "Auteur:"
+
+#: ../cs-framework/config/cs-front-end-functions.php:368
+msgid "Sticky"
+msgstr "Sticky"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "Leave a comment"
+msgstr "Geef een reactie"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "% Comments"
+msgstr "% reacties"
+
+#: ../cs-framework/config/cs-front-end-functions.php:405
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../cs-framework/config/cs-front-end-functions.php:425
+msgid "Previous Post"
+msgstr "Vorig bericht"
+
+#: ../cs-framework/config/cs-front-end-functions.php:426
+msgid "Next Post"
+msgstr "Volgend bericht"
+
+#: ../cs-framework/config/cs-front-end-functions.php:538
+msgid "Load More"
+msgstr "Meer laden"
+
+#: ../cs-framework/config/cs-front-end-functions.php:573
+msgid "Previous"
+msgstr "Vorige"
+
+#: ../cs-framework/config/cs-front-end-functions.php:574
+msgid "Next"
+msgstr "Volgende"
+
+#: ../cs-framework/config/cs-front-end-functions.php:753
+msgid "Pages"
+msgstr "Pagina"
+
+#: ../cs-framework/config/cs-front-end-functions.php:933
+msgid "You can edit your menu content on the Menus screen in the Appearance section."
+msgstr "Je kunt de inhoud van het menu wijzigen in het Weergave-gedeelte."
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Een gedachte over &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s gedachten over &ldquo;%2$s&rdquo;"
+

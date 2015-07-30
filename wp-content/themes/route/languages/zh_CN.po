@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Route WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-16 10:39+0200\n"
+"PO-Revision-Date: 2014-09-21 13:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: Codestar <info@codestarlive.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s的搜索结果"
+
+#: ../archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "日度归档：%s"
+
+#: ../archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "月度归档：%s"
+
+#: ../archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "年度归档：%s"
+
+#: ../archive.php:23
+msgid "Archives"
+msgstr "归档"
+
+#: ../searchform.php:12
+#: ../header.php:47
+msgid "Search"
+msgstr "搜索"
+
+#: ../comments.php:34
+msgid "Older Comments"
+msgstr "早期评论"
+
+#: ../comments.php:35
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "评论已关闭"
+
+#: ../404.php:17
+msgid "404"
+msgstr "404"
+
+#: ../404.php:18
+msgid "Not Found!"
+msgstr "未找到"
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "这儿似乎什么都没有，试试搜索？"
+
+#: ../404.php:28
+msgid "Return Back"
+msgstr "返回"
+
+#: ../author.php:14
+#, php-format
+msgid "All posts by %s"
+msgstr "所有由%s发布的文章"
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "分类目录归档：%s"
+
+#: ../tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "标签归档：%s"
+
+#: ../post-formats/content-audio.php:25
+#: ../post-formats/content-gallery.php:24
+#: ../post-formats/content-image.php:24
+#: ../post-formats/content-link.php:33
+#: ../post-formats/content-quote.php:24
+#: ../post-formats/content-aside.php:24
+#: ../post-formats/content-status.php:24
+#: ../post-formats/content-chat.php:24
+#: ../post-formats/content-video.php:24
+#: ../post-formats/content.php:27
+msgid "Read More"
+msgstr "阅读更多"
+
+#: ../post-formats/content-none.php:12
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: ../cs-framework/includes/shortcodes/cs_portfolio.php:159
+msgid "All"
+msgstr "全部"
+
+#: ../cs-framework/config/cs-enqueue-config.php:32
+msgid "Already loved!"
+msgstr "错误!"
+
+#: ../cs-framework/config/cs-enqueue-config.php:33
+msgid "Error!"
+msgstr "错误!"
+
+#: ../cs-framework/config/cs-actions-config.php:307
+msgid "About Author:"
+msgstr "作者:"
+
+#: ../cs-framework/config/cs-front-end-functions.php:368
+msgid "Sticky"
+msgstr "置顶"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "Leave a comment"
+msgstr "发表回复"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "1 Comment"
+msgstr "1条评论"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "% Comments"
+msgstr "%条评论"
+
+#: ../cs-framework/config/cs-front-end-functions.php:405
+msgid "Edit"
+msgstr "编辑"
+
+#: ../cs-framework/config/cs-front-end-functions.php:425
+msgid "Previous Post"
+msgstr "上一文章"
+
+#: ../cs-framework/config/cs-front-end-functions.php:426
+msgid "Next Post"
+msgstr "下一文章"
+
+#: ../cs-framework/config/cs-front-end-functions.php:538
+msgid "Load More"
+msgstr "读取更多"
+
+#: ../cs-framework/config/cs-front-end-functions.php:573
+msgid "Previous"
+msgstr "上一"
+
+#: ../cs-framework/config/cs-front-end-functions.php:574
+msgid "Next"
+msgstr "下一"
+
+#: ../cs-framework/config/cs-front-end-functions.php:753
+msgid "Pages"
+msgstr "页码"
+
+#: ../cs-framework/config/cs-front-end-functions.php:933
+msgid "You can edit your menu content on the Menus screen in the Appearance section."
+msgstr "菜单内容可在“外观”的“菜单”页面进行编辑"
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%s个想法"
+msgstr[1] "%1$s 關於 &ldquo;%2$s&rdquo; 的評論"
+

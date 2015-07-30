@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Route WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-16 10:39+0200\n"
+"PO-Revision-Date: 2014-09-22 15:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: Codestar <info@codestarlive.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezultati pretrage za: %s"
+
+#: ../archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dnevne arhive: %s"
+
+#: ../archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Mjesečne arhive: %s"
+
+#: ../archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Godišnje arhive: %s"
+
+#: ../archive.php:23
+msgid "Archives"
+msgstr "Arhive"
+
+#: ../searchform.php:12
+#: ../header.php:47
+msgid "Search"
+msgstr "Traži"
+
+#: ../comments.php:34
+msgid "Older Comments"
+msgstr "Stariji Komentari"
+
+#: ../comments.php:35
+msgid "Newer Comments"
+msgstr "Noviji komentari"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni."
+
+#: ../404.php:17
+msgid "404"
+msgstr "404"
+
+#: ../404.php:18
+msgid "Not Found!"
+msgstr "Nije pronađeno!"
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Izgleda da se ništa ne nalazi na ovoj lokaciji. Možda da probate pretragu?"
+
+#: ../404.php:28
+msgid "Return Back"
+msgstr "Povratak"
+
+#: ../author.php:14
+#, php-format
+msgid "All posts by %s"
+msgstr "Svi postovi od %s"
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Arhive kategorije: %s"
+
+#: ../tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Arhive oznaka: %s"
+
+#: ../post-formats/content-audio.php:25
+#: ../post-formats/content-gallery.php:24
+#: ../post-formats/content-image.php:24
+#: ../post-formats/content-link.php:33
+#: ../post-formats/content-quote.php:24
+#: ../post-formats/content-aside.php:24
+#: ../post-formats/content-status.php:24
+#: ../post-formats/content-chat.php:24
+#: ../post-formats/content-video.php:24
+#: ../post-formats/content.php:27
+msgid "Read More"
+msgstr "Pročitaj više"
+
+#: ../post-formats/content-none.php:12
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Izgleda da ne možemo pronaći ono što vam treba. Možda pretraga pomogne."
+
+#: ../cs-framework/includes/shortcodes/cs_portfolio.php:159
+msgid "All"
+msgstr "Svih"
+
+#: ../cs-framework/config/cs-enqueue-config.php:32
+msgid "Already loved!"
+msgstr "Greška!"
+
+#: ../cs-framework/config/cs-enqueue-config.php:33
+msgid "Error!"
+msgstr "Greška!"
+
+#: ../cs-framework/config/cs-actions-config.php:307
+msgid "About Author:"
+msgstr "Autor:"
+
+#: ../cs-framework/config/cs-front-end-functions.php:368
+msgid "Sticky"
+msgstr "Lijepljivo"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "Leave a comment"
+msgstr "Ostavi komentar"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "1 Comment"
+msgstr "1 komentar"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "% Comments"
+msgstr "% komentara"
+
+#: ../cs-framework/config/cs-front-end-functions.php:405
+msgid "Edit"
+msgstr "Uredi"
+
+#: ../cs-framework/config/cs-front-end-functions.php:425
+msgid "Previous Post"
+msgstr "Prethodni Post"
+
+#: ../cs-framework/config/cs-front-end-functions.php:426
+msgid "Next Post"
+msgstr "Sljedeći Post"
+
+#: ../cs-framework/config/cs-front-end-functions.php:538
+msgid "Load More"
+msgstr "Učitaj Više"
+
+#: ../cs-framework/config/cs-front-end-functions.php:573
+msgid "Previous"
+msgstr "Prethodno"
+
+#: ../cs-framework/config/cs-front-end-functions.php:574
+msgid "Next"
+msgstr "Sljedeće"
+
+#: ../cs-framework/config/cs-front-end-functions.php:753
+msgid "Pages"
+msgstr "Stranice"
+
+#: ../cs-framework/config/cs-front-end-functions.php:933
+msgid "You can edit your menu content on the Menus screen in the Appearance section."
+msgstr "Možete urediti sadržaj izbornika na zaslonu Izbornici u sekciji Izgled."
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Jedna misao o &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s misli o &ldquo;%2$s&rdquo;"
+

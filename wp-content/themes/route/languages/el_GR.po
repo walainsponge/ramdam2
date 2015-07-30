@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Route WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-09-16 10:39+0200\n"
+"PO-Revision-Date: 2014-10-29 19:01+0200\n"
+"Last-Translator: \n"
+"Language-Team: Codestar <info@codestarlive.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα για %s"
+
+#: ../archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Αρχείο ημέρας %s"
+
+#: ../archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Αρχείο μηνός %s"
+
+#: ../archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Αρχείο έτους %s"
+
+#: ../archive.php:23
+msgid "Archives"
+msgstr "Αρχείο"
+
+#: ../searchform.php:12
+#: ../header.php:47
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: ../comments.php:34
+msgid "Older Comments"
+msgstr "Παλαιότερα σχόλια"
+
+#: ../comments.php:35
+msgid "Newer Comments"
+msgstr "Νεότερα σχόλια"
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr "Τα σχόλια έχουν κλείσει."
+
+#: ../404.php:17
+msgid "404"
+msgstr "404"
+
+#: ../404.php:18
+msgid "Not Found!"
+msgstr "Δεν Βρέθηκε"
+
+#: ../404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Φαίνεται ότι δεν βρέθηκε τίποτα σε αυτή την τοποθεσία. Μήπως να δοκιμάζατε μια αναζήτηση;"
+
+#: ../404.php:28
+msgid "Return Back"
+msgstr "Επιστροφή"
+
+#: ../author.php:14
+#, php-format
+msgid "All posts by %s"
+msgstr "Όλες οι δημοσιεύσεις από %s"
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Αρχείο κατηγορίας %s"
+
+#: ../tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Αρχείο ετικέτας %s"
+
+#: ../post-formats/content-audio.php:25
+#: ../post-formats/content-gallery.php:24
+#: ../post-formats/content-image.php:24
+#: ../post-formats/content-link.php:33
+#: ../post-formats/content-quote.php:24
+#: ../post-formats/content-aside.php:24
+#: ../post-formats/content-status.php:24
+#: ../post-formats/content-chat.php:24
+#: ../post-formats/content-video.php:24
+#: ../post-formats/content.php:27
+msgid "Read More"
+msgstr "Διαβάστε περισσότερα"
+
+#: ../post-formats/content-none.php:12
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δεν βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: ../cs-framework/includes/shortcodes/cs_portfolio.php:159
+msgid "All"
+msgstr "Όλο"
+
+#: ../cs-framework/config/cs-enqueue-config.php:32
+msgid "Already loved!"
+msgstr "Σφάλμα!"
+
+#: ../cs-framework/config/cs-enqueue-config.php:33
+msgid "Error!"
+msgstr "Σφάλμα!"
+
+#: ../cs-framework/config/cs-actions-config.php:307
+msgid "About Author:"
+msgstr "Συντάκτης:"
+
+#: ../cs-framework/config/cs-front-end-functions.php:368
+msgid "Sticky"
+msgstr "Μόνιμα 1η σελίδα"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "Leave a comment"
+msgstr "Σχολιάστε"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "1 Comment"
+msgstr "1 Σχόλιο"
+
+#: ../cs-framework/config/cs-front-end-functions.php:392
+msgid "% Comments"
+msgstr "% Σχόλια"
+
+#: ../cs-framework/config/cs-front-end-functions.php:405
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: ../cs-framework/config/cs-front-end-functions.php:425
+msgid "Previous Post"
+msgstr "Προηγούμενες δημοσιεύσεις"
+
+#: ../cs-framework/config/cs-front-end-functions.php:426
+msgid "Next Post"
+msgstr "Επόμενες δημοσιεύσεις"
+
+#: ../cs-framework/config/cs-front-end-functions.php:538
+msgid "Load More"
+msgstr "Φόρτωσε Περισσότερα"
+
+#: ../cs-framework/config/cs-front-end-functions.php:573
+msgid "Previous"
+msgstr "Προηγούμενες"
+
+#: ../cs-framework/config/cs-front-end-functions.php:574
+msgid "Next"
+msgstr "Επόμενες"
+
+#: ../cs-framework/config/cs-front-end-functions.php:753
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: ../cs-framework/config/cs-front-end-functions.php:933
+msgid "You can edit your menu content on the Menus screen in the Appearance section."
+msgstr "Μπορείτε να επεξεργαστείτε το περιεχόμενο του μενού από την οθόνη Μενού της ενότητας Εμφάνιση."
+
+#: comments.php:27
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ένα σχόλιο στο <i>%2$s</i>"
+msgstr[1] "%1$s σχόλια στο <i>%2$s</i>"
+
